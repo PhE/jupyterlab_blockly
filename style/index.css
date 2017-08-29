@@ -1,0 +1,14 @@
+/*-----------------------------------------------------------------------------
+| Copyright (c) Philippe Entzmann
+| Distributed under the terms of the Modified BSD License.
+|----------------------------------------------------------------------------*/
+
+.jp-bpmn {
+    margin: 10px;
+    overflow-y: auto;
+    height: 100%;
+}
+
+.jp-bpmn-content {
+    height: 100%;
+}
